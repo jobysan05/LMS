@@ -2,7 +2,7 @@ package com.smoothstack.entities;
 
 public class Author {
 	
-	//declare variables
+	//declare variablesk
 	private String authorId;
 	private String authorName;
 	
